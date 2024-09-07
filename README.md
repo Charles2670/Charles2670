@@ -2,10 +2,6 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/Y01jP8QeLOox2" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y01jP8QeLOox2">via GIPHY</a></p>
-
-###
-
 <div align="left">
   <p>SKILLS:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
