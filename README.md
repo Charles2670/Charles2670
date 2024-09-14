@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Charles D'souza<br>I am passionate about coding and learning different languages.<br>I am currently diving into AI & ML<br>I do have a project in ML</h2>
+<h2 align="left">Hi 👋! My name is Charles Dsouza<br>I am passionate about coding and learning different languages.<br>I am currently diving into AI & ML<br>I do have a project in ML</h2>
 
 ###
 
